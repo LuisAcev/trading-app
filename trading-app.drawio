@@ -5,7 +5,46 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KqyzfEX0JEpHo3fRosmM-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="400" height="400" as="geometry" />
+          <mxGeometry y="64" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="175" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-2" value="Princiapla view" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="64" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-7" value="stocks tipo swift con los principales activos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="124" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-9" value="apple" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="194" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-10" value="tesla" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="194" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-11" value="Nvidia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="194" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-12" value="netFlix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="194" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="274" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KqyzfEX0JEpHo3fRosmM-19" value="Activo selecciuoando" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
